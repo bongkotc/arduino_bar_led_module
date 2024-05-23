@@ -2,4 +2,4 @@
 ![Logo](Arduino%20Led.png)
 
 ## Introduction Video
-<iframe width="560" height="315" src="https://youtu.be/UFIQx77ky4c?si=pZs_d8Lh7jZD5dvw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://youtu.be/UFIQx77ky4c?si=unWk9NZG2UsPJK_0/maxresdefault.jpg)](https://youtu.be/UFIQx77ky4c?si=unWk9NZG2UsPJK_0)
