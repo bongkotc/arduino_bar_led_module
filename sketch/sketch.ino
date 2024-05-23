@@ -13,14 +13,14 @@ void setup()
     }
 }
 
-void ledOnAll(){
+void ledAllOn(){
     for (int i = 0; i < MAX_LED; i++)
     {
         digitalWrite(ledPinNo[i], LOW); //ON
     }
 }
 
-void ledOffAll(){
+void ledAllOff(){
     for (int i = 0; i < MAX_LED; i++)
     {
         digitalWrite(ledPinNo[i], HIGH); //ON
@@ -29,8 +29,8 @@ void ledOffAll(){
 
 void loop()
 {
-    ledOnAll();
+    ledAllOn();
     delay(1000);
-    ledOffAll();
+    ledAllOff();
     delay(1000);
 }
