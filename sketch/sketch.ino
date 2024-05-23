@@ -23,14 +23,14 @@ void ledAllOn(){
 void ledAllOff(){
     for (int i = 0; i < MAX_LED; i++)
     {
-        digitalWrite(ledPinNo[i], HIGH); //ON
+        digitalWrite(ledPinNo[i], HIGH); //OFF
     }
 }
 
 void loop()
 {
     ledAllOn();
-    delay(1000);
+    delay(1000);//Delay 1000 ms
     ledAllOff();
-    delay(1000);
+    delay(1000);//Delay 1000 ms
 }
