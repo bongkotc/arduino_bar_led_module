@@ -1,5 +1,5 @@
 # arduino_bar_led_module
-![Logo](Arduino%20Led.png)
+<img src="Arduino%20Led.png" alt="My Image" width="500" height="500">
 
 # Wiring
 
